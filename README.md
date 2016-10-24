@@ -18,6 +18,11 @@
 - 高级用法：复用子布局（showItemView不使用ViewHolder）
 - 同一个列表，不同布局，子类可重写getItemType，子类也可在initView中判断
 
+### Dependence 
+
+```
+compile 'wang.yuchao.android.library.view.pullviewlibrary:PullViewLibrary:1.0.0'
+```
 
 ## [About Me](http://yuchao.wang)
 
