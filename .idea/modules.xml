@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PullView.iml" filepath="$PROJECT_DIR$/PullView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullViewLibrary/PullViewLibrary.iml" filepath="$PROJECT_DIR$/PullViewLibrary/PullViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
+    </modules>
+  </component>
+</project>

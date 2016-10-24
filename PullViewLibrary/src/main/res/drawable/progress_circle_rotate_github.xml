@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item android:drawable="@drawable/progress_circle_rotate_github_inner" />-->
+    <item>
+        <rotate
+            android:fromDegrees="0"
+            android:toDegrees="360"
+            android:pivotY="50%"
+            android:pivotX="50%">
+            <bitmap
+                android:src="@drawable/progress_circle_rotate_github_outer"
+                android:filter="true"
+                android:antialias="true" />
+        </rotate>
+    </item>
+</layer-list>
